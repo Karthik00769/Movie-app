@@ -4,12 +4,4 @@ This project is a movie website built with React.js for the front-end and uses B
 
 Features:
 
-Movie Listing: Displays a list of movies with details like title, poster, and release date.
-
-Movie Search: Allows users to search for movies by title using a search bar.
-
-TMDB Integration: Fetches movie data from the TMDB API for accurate information and visuals.
-
-React.js: Employs the power of React.js for a dynamic and user-friendly experience.
-
-Bootstrap CSS: Provides a responsive design framework for optimal display across devices.
+This movie website offers a comprehensive experience for film enthusiasts. Users can easily browse through a list of popular movies, complete with titles, posters, and release dates. The built-in search bar allows for quick and convenient movie discovery. Leveraging the TMDB API, the website ensures accurate and up-to-date movie information and visuals. Powered by React.js, the website delivers a dynamic and user-friendly interface, while Bootstrap CSS ensures optimal viewing across various devices.
