@@ -33,7 +33,7 @@ function App() {
       console.error(error); 
     }
   };
-
+  
   const changeHandler = (e) => {
     setQuery(e.target.value);
   };
@@ -79,6 +79,7 @@ function App() {
           <h2>No Movies Found</h2>
         )}
       </div>
+      
     </>
   );
 }
