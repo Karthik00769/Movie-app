@@ -18,7 +18,7 @@ function App() {
         console.log(data);
         setMovies(data.results);
       });
-  }, []);
+  }, [API_URL]);
 
   const searchMovie = async (e) => {
     e.preventDefault();
