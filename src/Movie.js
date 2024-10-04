@@ -33,7 +33,7 @@ const MovieBox = ({ title, poster_path, vote_average, release_date, overview }) 
             </Modal.Body>
             <Modal.Footer>
               <Button variant="secondary" onClick={handleClose}>
-                Close
+                CLOSE
               </Button>
             </Modal.Footer>
           </Modal>
